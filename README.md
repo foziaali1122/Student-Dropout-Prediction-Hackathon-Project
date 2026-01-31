@@ -69,9 +69,6 @@ Dataset used: [xAPI-Edu-Data](https://www.kaggle.com/datasets/aljarah/xAPI-Edu-D
 
 ---
 
-## 📂 Files in Repository
-- `app.py` → Streamlit dashboard  
-- `student_dropout_model.pkl` → Trained Random Forest model  
 - `requirements.txt` → Python dependencies  
 - `README.md` → This file  
 
